@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import UserInterface from "./components/UserInterface";
-import StylesContext from "./components/StylesContext";
+import StylesContext from "./context/StylesContext";
 
 function App() {
   const stylin = {
